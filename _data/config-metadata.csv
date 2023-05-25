@@ -1,6 +1,5 @@
 field,display_name,browse_link,external_link
 title,Title,
-creator,Creator,
 datecreated,Date Created,
 description,Description,
 subject,Subjects,true
@@ -8,11 +7,9 @@ location,Location
 latitude,Latitude
 longitude,Longitude
 countryoforigin,Country of Origin,true,
-source,Source
-identifier,Source Identifier,,
-type,Type,
+source,Source,
 format,Format,
-creativecommons,Creative Commons,,
+creativecommons,Creative Commons,
 rights,Rights,
 rightsstatement,Rights Statement,,true
 archivedpage,Archived Page,,
